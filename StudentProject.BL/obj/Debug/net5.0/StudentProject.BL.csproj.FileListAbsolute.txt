@@ -1,0 +1,12 @@
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\bin\Debug\net5.0\StudentProject.BL.deps.json
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\bin\Debug\net5.0\StudentProject.BL.dll
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\bin\Debug\net5.0\ref\StudentProject.BL.dll
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\bin\Debug\net5.0\StudentProject.BL.pdb
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.csproj.AssemblyReference.cache
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.AssemblyInfoInputs.cache
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.AssemblyInfo.cs
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.dll
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\ref\StudentProject.BL.dll
+C:\Users\d34th\Source\Repos\studentproject\StudentProject.BL\obj\Debug\net5.0\StudentProject.BL.pdb
